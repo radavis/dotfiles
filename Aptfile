@@ -1,0 +1,12 @@
+build-essential
+curl
+fonts-powerline
+fzf
+git
+jq
+libffi-dev
+libncurses-dev
+silversearcher-ag
+tree
+wget
+xclip

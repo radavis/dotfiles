@@ -1,0 +1,15 @@
+export EDITOR=nano
+
+alias be="bundle exec"
+alias c="clear"
+alias dc="docker-compose"
+# ds - datestamp
+alias ds='env TZ=UTC date "+%Y%m%d"'
+# dts - datetimestamp
+alias dts='env TZ=UTC date "+%Y%m%d%H%M%S"'
+alias ga="git add"
+alias gc="git commit"
+alias gcm="git commit -m"
+alias gs="git status"
+alias push="git push origin HEAD"
+alias x="exit"

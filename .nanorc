@@ -1,0 +1,10 @@
+set atblanks
+set autoindent
+set guidestripe 80
+set linenumbers
+#set mouse
+set nohelp
+set softwrap
+set tabsize 2
+set tabstospaces
+set trimblanks
